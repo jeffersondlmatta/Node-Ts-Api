@@ -1,0 +1,17 @@
+
+
+[
+    {    
+        "podcastName": "A",
+        "episode" : "string",
+        "videoID" : "string",
+        "categories" : "string[]"
+    },
+    {    
+        "podcastName": "B",
+        "episode" : "string",
+        "videoID" : "string",
+        "categories" : "string[]"
+    }
+    
+]
